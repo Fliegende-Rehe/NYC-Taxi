@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environment
+.env/
+.venv/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Data files
+data/
+output/
+predictions.csv
+stream_predictions/
+*.csv
+
+# Models
+models/
+*.joblib
+*.pkl
+
+# Logs
+*.log
+
+# Spark / temporary files
+*.parquet
+*.snappy
+*.orc
+*.tmp
+*.checkpoint
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kafka / Zookeeper
+kafka-logs/
+zookeeper-data/

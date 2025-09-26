@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+pyarrow  
+xgboost  
+pyspark
+kafka-python
+seaborn
+matplotlib
