@@ -40,7 +40,7 @@ python train_model.py --in output/agg_zone_hour.csv --out models
 
 # Batch prediction
 python predict_batch.py --in output/agg_zone_hour.csv --model models/pickup_model.joblib --out predictions.csv
----
+
 ```
 
 
